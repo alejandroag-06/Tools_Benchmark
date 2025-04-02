@@ -48,7 +48,7 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 
 ---
 
-![Imagen 1: Vista principal de Speccy con resumen y detalles técnicos](image.png)
+![Imagen 1: Vista principal de Speccy con resumen y detalles técnicos](imgs/speccy/img1.png)
 
 ---
 <a id="-sistema-operativo"></a>
@@ -84,8 +84,8 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 
 ---
 
-![Imagen 1: Detalles del sistema operativo y seguridad](image.png)
-![Imagen 2: Configuraciones regionales y tiempo de actividad](image.png)
+![Imagen 1: Detalles del sistema operativo y seguridad](imgs/speccy/img2.png)
+![Imagen 2: Configuraciones regionales y tiempo de actividad](imgs/speccy/img3.png)
 
 ---
 
@@ -123,7 +123,7 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
 
 ---
 
-![Imagen: Detalles de la CPU en Speccy](image.png)
+![Imagen: Detalles de la CPU en Speccy](imgs/speccy/img4.png)
 
 ---
 
@@ -154,7 +154,7 @@ Esta sección muestra información breve sobre la memoria. Aunque es breve, esto
 
 ---
 
-![Imagen: Estadísticas de RAM en Speccy](image.png)
+![Imagen: Estadísticas de RAM en Speccy](imgs/speccy/img5.png)
 
 ---
 
@@ -191,7 +191,7 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 
 ---
 
-![Imagen: Detalles de la placa base y ranuras PCI-E](image.png)
+![Imagen: Detalles de la placa base y ranuras PCI-E](imgs/speccy/img6.png)
 
 ---
 
@@ -226,7 +226,7 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 
 ---
 
-![Imagen: Detalles de gráfica y monitor en Speccy](image.png)
+![Imagen: Detalles de gráfica y monitor en Speccy](imgs/speccy/img7.png)
 
 ---
 
@@ -266,7 +266,7 @@ Esta sección detalla la información técnica y cómo está distribuido el espa
 
 ---
 
-![Imagen: Detalles de almacenamiento en Speccy](image.png)
+![Imagen: Detalles de almacenamiento en Speccy](imgs/speccy/img8.png)
 
 ---
 
@@ -295,7 +295,7 @@ Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así func
 
 ---
 
-![Imagen: Estado de unidades ópticas en Speccy](image.png)
+![Imagen: Estado de unidades ópticas en Speccy](imgs/speccy/img9.png)
 
 ---
 
@@ -325,7 +325,7 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 
 ---
 
-![Imagen: Configuración de audio en Speccy](image.png)
+![Imagen: Configuración de audio en Speccy](imgs/speccy/img10.png)
 
 ---
 
@@ -353,7 +353,7 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 
 ---
 
-![Imagen: Listado de periféricos en Speccy](image.png)
+![Imagen: Listado de periféricos en Speccy](imgs/speccy/img11.png)
 
 ---
 
@@ -397,8 +397,8 @@ Speccy lista procesos que usan la red:
 
 ---
 
-![Imagen 1: Configuración de red y adaptadores](image.png)
-![Imagen 2: Conexiones TCP y recursos compartidos](image.png)
+![Imagen 1: Configuración de red y adaptadores](imgs/speccy/img12.png)
+![Imagen 2: Conexiones TCP y recursos compartidos](imgs/speccy/img13.png)
 
 ---
 
