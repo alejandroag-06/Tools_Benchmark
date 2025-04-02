@@ -351,8 +351,6 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 
 Esta sección lista los dispositivos de entrada y salida detectados:
 
----
-
 ## ⌨️ **Teclado**
 
 - **Teclado PS/2 estándar**: Suele ser el teclado integrado en portátiles (marcado como *Intel LPC Controller*).
