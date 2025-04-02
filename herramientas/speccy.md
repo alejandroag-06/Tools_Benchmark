@@ -23,7 +23,6 @@
 
 ## 🚀 **1.- Interfaz Principal de Speccy**
 
-
 Al abrir Speccy, verás una pantalla dividida en dos bloques clave:
 
 ### 📋 **Panel de Resumen (Sumario)**
@@ -55,7 +54,6 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 <a id="-sistema-operativo"></a>
 
 # 📂 2.- Sistema Operativo
-
 
 Esta sección centraliza información crítica sobre tu sistema y configuraciones clave. Te explicamos qué datos son más relevantes y cómo interpretarlos:
 
@@ -106,7 +104,6 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 
 
 Aquí encontrarás datos clave del microprocesador instalado en tu equipo:
--------------------------------------------------------------------------
 
 ## 🖥️ **Información Relevante**
 
