@@ -59,7 +59,6 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 
 Esta sección centraliza información crítica sobre tu sistema y configuraciones clave. Te explicamos qué datos son más relevantes y cómo interpretarlos:
 
----
 
 ## 🔍 **Datos Principales**
 
@@ -106,7 +105,7 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 # 🔧 3.- CPU
 
 
-Aquí encontrarás datos clave el microprocesador instalado en tu equipo:
+Aquí encontrarás datos clave del microprocesador instalado en tu equipo:
 -------------------------------------------------------------------------
 
 ## 🖥️ **Información Relevante**
@@ -144,7 +143,6 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
 
 Esta sección muestra información breve sobre la memoria. Aunque es breve, estos datos son clave:
 
----
 
 ## 📌 **Datos Esenciales**
 
@@ -175,7 +173,6 @@ Esta sección muestra información breve sobre la memoria. Aunque es breve, esto
 
 Esta sección muestra detalles técnicos de la placa base y sus conexiones:
 
----
 
 ## 📋 **Datos Clave**
 
@@ -214,7 +211,6 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 
 Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 
----
 
 ## 🖥️ **Monitor**
 
@@ -251,7 +247,6 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 
 Esta sección detalla la información técnica y cómo está distribuido el espacio en tu disco:
 
----
 
 ## 🖴 **Disco Principal**
 
@@ -294,7 +289,6 @@ Esta sección detalla la información técnica y cómo está distribuido el espa
 
 Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así funciona:
 
----
 
 ## 🛠️ **¿Qué verías si tuvieras una?**
 
@@ -320,7 +314,6 @@ Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así func
 
 Esta sección lista los dispositivos de sonido detectados por tu sistema. Así se interpreta:
 
----
 
 ## 🎧 **Datos Clave**
 
@@ -379,7 +372,6 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 
 Esta sección muestra cómo tu PC se integra en la red local e internet. Te explicamos lo esencial:
 
----
 
 ## 📡 **Conexión Principal**
 
