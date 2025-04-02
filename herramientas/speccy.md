@@ -315,7 +315,7 @@ Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así func
 ---
 <a id="-audio"></a>
 
-# 🔊 Sección "Audio" en Speccy
+# 🔊 9.- Audio
 
 
 Esta sección lista los dispositivos de sonido detectados por tu sistema. Así se interpreta:
@@ -346,7 +346,7 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 ---
 <a id="-periféricos"></a>
 
-# 🖱️ 9.- Periféricos
+# 🖱️ 10.- Periféricos
 
 
 Esta sección lista los dispositivos de entrada y salida detectados:
@@ -377,7 +377,7 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 ---
 <a id="-red"></a>
 
-# 🌐 10.- Red
+# 🌐 11.- Red
 
 Esta sección muestra cómo tu PC se integra en la red local e internet. Te explicamos lo esencial:
 
