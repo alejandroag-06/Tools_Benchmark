@@ -21,6 +21,7 @@
 ---
 
 ## 🚀 **1.- Interfaz Principal de Speccy**
+<a id="-interfaz-principal-de-speccy"></a>
 
 Al abrir Speccy, verás una pantalla dividida en dos bloques clave:
 
@@ -52,6 +53,7 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 ---
 
 # 📂 2.- Sistema Operativo
+<a id="-sistema-operativo"></a>
 
 Esta sección centraliza información crítica sobre tu sistema y configuraciones clave. Te explicamos qué datos son más relevantes y cómo interpretarlos:
 
@@ -99,6 +101,7 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 ---
 
 # 🔧 3.- CPU
+<a id="-cpu"></a>
 
 Aquí encontrarás datos clave el microprocesador instalado en tu equipo:
 -------------------------------------------------------------------------
@@ -133,6 +136,7 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
 ---
 
 # 🧠 4.- RAM
+<a id="-ram"></a>
 
 Esta sección muestra información breve sobre la memoria. Aunque es breve, estos datos son clave:
 
@@ -161,7 +165,8 @@ Esta sección muestra información breve sobre la memoria. Aunque es breve, esto
 
 ---
 
-# 5.- Placa Base
+# 🔌 5.- Placa Base
+<a id="-placa-base"></a>
 
 Esta sección muestra detalles técnicos de la placa base y sus conexiones:
 
@@ -199,6 +204,7 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 ---
 
 # 🎮 6.- Gráfica
+<a id="-gráfica"></a>
 
 Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 
@@ -234,6 +240,7 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 ---
 
 # 💾 7.- Almacenamiento
+<a id="-almacenamiento"></a>
 
 Esta sección detalla la información técnica y cómo está distribuido el espacio en tu disco:
 
@@ -277,6 +284,7 @@ Esta sección detalla la información técnica y cómo está distribuido el espa
 ¿Listo para revisar el audio? 🔊
 
 # 📀 8.- Unidades Ópticas
+<a id="-unidades-ópticas"></a>
 
 Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así funciona:
 
@@ -303,6 +311,7 @@ Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así func
 ¿Siguiente sección? 🎧
 
 # 🔊 Sección "Audio" en Speccy
+<a id="-audio"></a>
 
 Esta sección lista los dispositivos de sonido detectados por tu sistema. Así se interpreta:
 
@@ -332,6 +341,7 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 ---
 
 # 🖱️ 9.- Periféricos
+<a id="-periféricos"></a>
 
 Esta sección lista los dispositivos de entrada y salida detectados:
 
@@ -361,7 +371,7 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 ---
 
 # 🌐 10.- Red
-
+<a id="-red"></a>
 Esta sección muestra cómo tu PC se integra en la red local e internet. Te explicamos lo esencial:
 
 ---
