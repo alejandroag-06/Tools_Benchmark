@@ -6,18 +6,17 @@
 ---
 
 ## 🔍 Índice
-
-1. [Interfaz Principal](#1.--interfaz-principal-de-speccy)
-2. [Sistema Operativo](#sistema-operativo)
-3. [CPU](#cpu)
-4. [RAM](#ram)
-5. [Placa Base](#placa-base)
-6. [Gráfica](#gráfica)
-7. [Almacenamiento](#almacenamiento)
-8. [Unidades Ópticas](#unidades-ópticas)
-9. [Audio](#audio)
-10. [Periféricos](#periféricos)
-11. [Red](#red)
+1. [🚀 1.- Interfaz Principal de Speccy](#-interfaz-principal-de-speccy)  
+2. [📂 2.- Sistema Operativo](#-sistema-operativo)  
+3. [⚙️ 3.- CPU](#-cpu)  
+4. [🧠 4.- RAM](#-ram)  
+5. [🔌 5.- Placa Base](#-placa-base)  
+6. [🎮 6.- Gráfica](#-gráfica)  
+7. [💾 7.- Almacenamiento](#-almacenamiento)  
+8. [📀 8.- Unidades Ópticas](#-unidades-ópticas)  
+9. [🔊 9.- Audio](#-audio)  
+10. [🖱️ 10.- Periféricos](#-periféricos)  
+11. [🌐 11.- Red](#-red) 
 
 ---
 
