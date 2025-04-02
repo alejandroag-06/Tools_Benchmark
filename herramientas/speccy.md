@@ -7,7 +7,7 @@
 
 ## 🔍 Índice
 
-1. [Interfaz Principal](#interfaz-principal-de-speccy)
+1. [Interfaz Principal](#1.--interfaz-principal-de-speccy)
 2. [Sistema Operativo](#sistema-operativo)
 3. [CPU](#cpu)
 4. [RAM](#ram)
