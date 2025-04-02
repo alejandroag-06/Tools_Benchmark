@@ -19,9 +19,10 @@
 11. [🌐 11.- Red](#-red) 
 
 ---
+<a id="-interfaz-principal-de-speccy"></a>
 
 ## 🚀 **1.- Interfaz Principal de Speccy**
-<a id="-interfaz-principal-de-speccy"></a>
+
 
 Al abrir Speccy, verás una pantalla dividida en dos bloques clave:
 
@@ -51,9 +52,10 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 ![Imagen 1: Vista principal de Speccy con resumen y detalles técnicos](image.png)
 
 ---
+<a id="-sistema-operativo"></a>
 
 # 📂 2.- Sistema Operativo
-<a id="-sistema-operativo"></a>
+
 
 Esta sección centraliza información crítica sobre tu sistema y configuraciones clave. Te explicamos qué datos son más relevantes y cómo interpretarlos:
 
@@ -99,9 +101,10 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 ⚠️ **Nota**: Evita compartir datos sensibles como el *número de serie de Windows*.
 
 ---
+<a id="-cpu"></a>
 
 # 🔧 3.- CPU
-<a id="-cpu"></a>
+
 
 Aquí encontrarás datos clave el microprocesador instalado en tu equipo:
 -------------------------------------------------------------------------
@@ -134,9 +137,10 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
 - Núcleos al 100% de frecuencia pueden indicar sobrecarga.
 
 ---
+<a id="-ram"></a>
 
 # 🧠 4.- RAM
-<a id="-ram"></a>
+
 
 Esta sección muestra información breve sobre la memoria. Aunque es breve, estos datos son clave:
 
@@ -164,9 +168,10 @@ Esta sección muestra información breve sobre la memoria. Aunque es breve, esto
 - *SPD no detectado*: Indica que Speccy no puede leer datos técnicos de los módulos de RAM (común en equipos virtuales o ciertas marcas).
 
 ---
+<a id="-placa-base"></a>
 
 # 🔌 5.- Placa Base
-<a id="-placa-base"></a>
+
 
 Esta sección muestra detalles técnicos de la placa base y sus conexiones:
 
@@ -202,9 +207,10 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 2. Verifica el manual de tu placa base para confirmar límites de potencia y compatibilidad.
 
 ---
+<a id="-gráfica"></a>
 
 # 🎮 6.- Gráfica
-<a id="-gráfica"></a>
+
 
 Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 
@@ -238,9 +244,10 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 3. Para pantallas externas, Speccy mostrará otro dispositivo en *\\\\.\DISPLAY2* (si está conectado).
 
 ---
+<a id="-almacenamiento"></a>
 
 # 💾 7.- Almacenamiento
-<a id="-almacenamiento"></a>
+
 
 Esta sección detalla la información técnica y cómo está distribuido el espacio en tu disco:
 
@@ -280,11 +287,10 @@ Esta sección detalla la información técnica y cómo está distribuido el espa
 3. *S.M.A.R.T no soportado*: No es crítico; herramientas como CrystalDiskInfo dan más detalles.
 
 ---
-
-¿Listo para revisar el audio? 🔊
+<a id="-unidades-ópticas"></a>
 
 # 📀 8.- Unidades Ópticas
-<a id="-unidades-ópticas"></a>
+
 
 Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así funciona:
 
@@ -307,11 +313,10 @@ Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así func
 - Si no aparece nada, significa que tu PC no tiene unidad óptica física conectada (común en equipos modernos).
 
 ---
-
-¿Siguiente sección? 🎧
+<a id="-audio"></a>
 
 # 🔊 Sección "Audio" en Speccy
-<a id="-audio"></a>
+
 
 Esta sección lista los dispositivos de sonido detectados por tu sistema. Así se interpreta:
 
@@ -339,9 +344,10 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 - Si no aparecen dispositivos, verifica conexiones o reinstala controladores.
 
 ---
+<a id="-periféricos"></a>
 
 # 🖱️ 9.- Periféricos
-<a id="-periféricos"></a>
+
 
 Esta sección lista los dispositivos de entrada y salida detectados:
 
@@ -369,9 +375,10 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 2. Los dispositivos *HID* repetidos son controladores estándar de Windows.
 
 ---
+<a id="-red"></a>
 
 # 🌐 10.- Red
-<a id="-red"></a>
+
 Esta sección muestra cómo tu PC se integra en la red local e internet. Te explicamos lo esencial:
 
 ---
