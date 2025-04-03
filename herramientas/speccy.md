@@ -7,10 +7,41 @@
 
 ## 📥 Instalar Speccy
 
-| Método               | Pasos                                                                 | Imagen              |  
-|----------------------|-----------------------------------------------------------------------|---------------------|  
-| **Microsoft Store**  | 1. Abre la Microsoft Store.<br>2. Busca *Speccy* y haz clic en **Obtener**. | ![Microsoft Store](imgs/speccy/mstore.png) |  
-| **Página Oficial**   | 1. Descarga desde [ccleaner.com/speccy](https://www.ccleaner.com/es-es/speccy/download).<br>2. Ejecuta el `.exe` e instala. | ![Página Oficial](imgs/speccy/speccy.png) |  
+# 📥 Instalar Speccy
+
+<table>
+  <tr>
+    <th width="30%">Método</th>
+    <th width="50%">Pasos</th>
+    <th width="20%">Imagen</th>
+  </tr>
+  <tr>
+    <td><strong>Microsoft Store</strong></td>
+    <td>1. Abre la Microsoft Store<br>2. Busca <em>Speccy</em><br>3. Haz clic en <strong>Obtener</strong></td>
+    <td style="text-align:center"><img src="imgs/speccy/mstore.png" width="150"></td>
+  </tr>
+  <tr>
+    <td><strong>Página Oficial</strong></td>
+    <td>1. Visita <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a><br>2. Descarga el instalador<br>3. Ejecuta el archivo .exe</td>
+    <td style="text-align:center"><img src="imgs/speccy/speccy.png" width="150"></td>
+  </tr>
+</table>
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  vertical-align: top;
+}
+th {
+  background-color: #f5f5f5;
+}
+</style> 
 
 ## 🔍 Índice
 1. [🚀 1.- Interfaz Principal de Speccy](#-interfaz-principal-de-speccy)  
