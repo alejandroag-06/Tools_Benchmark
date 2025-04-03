@@ -11,7 +11,7 @@
 1. Abre la **Microsoft Store**.  
 2. Busca *Speccy* y haz clic en **Obtener**.  
 
-![Instalación desde Microsoft Store](mstore.png)  
+![Instalación desde Microsoft Store](imgs/speccy/mstore.png)  
 
 ---
 
@@ -19,7 +19,7 @@
 1. Descarga desde: [ccleaner.com/speccy](https://www.ccleaner.com/es-es/speccy/download).  
 2. Ejecuta el archivo `.exe` e instala.  
 
-![Descarga desde CCleaner](speccy.png)  
+![Descarga desde CCleaner](imgs/speccy/speccy.png)  
 
 ## 🔍 Índice
 1. [🚀 1.- Interfaz Principal de Speccy](#-interfaz-principal-de-speccy)  
