@@ -63,7 +63,9 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 
 ---
 
-![Imagen 1: Vista principal de Speccy con resumen y detalles técnicos](imgs/speccy/img1.png)
+<p align="center">
+  <img src="imgs/speccy/img1.png" width="750">
+</p>
 
 ---
 
@@ -125,7 +127,9 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
 
 ---
 
-![Imagen: Detalles de la CPU en Speccy](imgs/speccy/img4.png)  
+<p align="center">
+  <img src="imgs/speccy/img4.png" width="750">
+</p> 
 
 ---
 
@@ -150,7 +154,9 @@ Esta sección muestra información breve sobre la memoria. Aunque es breve, esto
 
 ---
 
-![Imagen: Estadísticas de RAM en Speccy](imgs/speccy/img5.png)  
+<p align="center">
+  <img src="imgs/speccy/img5.png" width="750">
+</p> 
 
 ---
 
@@ -181,7 +187,9 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 
 ---
 
-![Detalles de la placa base y ranuras PCI-E](imgs/speccy/img6.png)
+<p align="center">
+  <img src="imgs/speccy/img6.png" width="750">
+</p>
 
 ---
 
@@ -243,7 +251,9 @@ Esta sección detalla la información técnica del disco:
 
 ---
 
-![Detalles de almacenamiento](imgs/speccy/img8.png)
+<p align="center">
+  <img src="imgs/speccy/img8.png" width="750">
+</p>
 
 ---
 
@@ -273,7 +283,9 @@ Esta sección detecta lectores de CD/DVD/Blu-Ray:
 
 ---
 
-![Estado de unidades ópticas](imgs/speccy/img9.png)
+<p align="center">
+  <img src="imgs/speccy/img9.png" width="750">
+</p>
 
 ---
 
@@ -300,8 +312,9 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 
 ---
 
-![Imagen: Configuración de audio en Speccy](imgs/speccy/img10.png)
-
+<p align="center">
+  <img src="imgs/speccy/img10.png" width="750">
+</p>
 ---
 
 💡 **Nota**:
@@ -327,7 +340,9 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 
 ---
 
-![Imagen: Listado de periféricos en Speccy](imgs/speccy/img11.png)
+<p align="center">
+  <img src="imgs/speccy/img11.png" width="750">
+</p>
 
 ---
 
