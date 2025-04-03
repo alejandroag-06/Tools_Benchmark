@@ -211,7 +211,9 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 
 ---
 
-![Detalles de gráfica y monitor](imgs/speccy/img7.png)
+<p align="center">
+  <img src="imgs/speccy/img7.png" width="750">
+</p>
 
 ---
 
