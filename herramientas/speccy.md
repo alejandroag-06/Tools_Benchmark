@@ -7,32 +7,52 @@
 
 ## 📥 Instalar Speccy
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; margin: 20px 0">
   <tr>
-    <td width="55%" style="border: none; padding: 10px">
-      <h3>Método 1: Microsoft Store</h3>
-      1. Abre la <strong>Microsoft Store</strong><br>
-      2. Busca <em>Speccy</em><br>
-      3. Haz clic en <strong>Obtener</strong>
+    <td style="border: none; vertical-align: top; width: 70%">
+      <table border="0" cellspacing="0" cellpadding="0" style="width: 100%">
+        <tr>
+          <td style="border: none; padding: 0 0 10px 0; font-size: 1.2em">
+            <strong>Método 1: Microsoft Store</strong>
+          </td>
+        </tr>
+        <tr>
+          <td style="border: none; padding: 0; font-size: 1.1em">
+            1. Abre la <strong>Microsoft Store</strong><br>
+            2. Busca <em>Speccy</em><br>
+            3. Haz clic en <strong>Obtener</strong>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="45%" style="border: none; padding: 10px">
-      <img src="imgs/speccy/mstore.png" width="600">
+    <td style="border: none; vertical-align: top; width: 30%">
+      <img src="imgs/speccy/mstore.png" width="300">
     </td>
   </tr>
 </table>
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; margin: 20px 0">
   <tr>
-    <td width="55%" style="border: none; padding: 10px">
-      <h3>Método 2: Página Oficial</h3>
-      1. Descarga desde:<br>
-      <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a><br>
-      2. Ejecuta el archivo <code>.exe</code>
+    <td style="border: none; vertical-align: top; width: 70%">
+      <table border="0" cellspacing="0" cellpadding="0" style="width: 100%">
+        <tr>
+          <td style="border: none; padding: 0 0 10px 0; font-size: 1.2em">
+            <strong>Método 2: Página Oficial</strong>
+          </td>
+        </tr>
+        <tr>
+          <td style="border: none; padding: 0; font-size: 1.1em">
+            1. Descarga desde:<br>
+            <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a><br>
+            2. Ejecuta el archivo <code>.exe</code>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="45%" style="border: none; padding: 10px">
-      <img src="imgs/speccy/speccy.png" width="600">
+    <td style="border: none; vertical-align: top; width: 30%">
+      <img src="imgs/speccy/speccy.png" width="300">
     </td>
   </tr>
 </table>
