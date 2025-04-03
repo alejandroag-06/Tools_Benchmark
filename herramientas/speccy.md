@@ -131,37 +131,31 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 ---
 <a id="-cpu"></a>
 
-# 🔧 3.- CPU
+## ⚙️ 3.- Procesador (CPU)  
+### ¿Qué información encontrarás aquí?  
+Speccy detalla el rendimiento y capacidades de tu CPU. Así puedes interpretar los datos:  
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap">
+  <div style="flex: 1; min-width: 250px">
+  
+  ### 📌 Especificaciones Clave  
+  - **Modelo**: Intel Core i7-13620H (13ª Gen)  
+  - **Núcleos/Hilos**: 10/16 → Ideal para streaming o edición.  
+  - **Caché L3**: 24.5 MB (acelera tareas repetitivas).  
 
-Aquí encontrarás datos clave del microprocesador instalado en tu equipo:
+  ### 🔄 Rendimiento en Tiempo Real  
+  - **Frecuencias**: ~2918 MHz (valores estables = buen funcionamiento).  
+  - **Tecnologías**:  
+    - *Hyperthreading*: Activo → Multitarea fluida.  
+    - *AVX2/AES*: Soporte para cifrado y apps especializadas.  
 
-## 🖥️ **Información Relevante**
+  </div>
+  <div style="flex: 1; min-width: 250px">
+    <img src="imgs/speccy/img4.png" style="width: 100%; border-radius: 8px">
+  </div>
+</div>
 
-- **Modelo**: *13th Gen Intel Core i7-13620H* (identifica la generación y potencia).
-- **Núcleos/Hilos**: 10 núcleos físicos y 16 hilos (ideal para multitarea o aplicaciones pesadas).
-- **Cachés**:
-  - **L3**: 24.5 MB (mayor caché = mejor rendimiento en tareas repetitivas).
-
-## 📊 **Velocidades en Tiempo Real**
-
-Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables indican buen funcionamiento.
-
-## 🔍 **Detalles Técnicos (Opcional)**
-
-- **Instrucciones soportadas**: AVX2, AES (útiles para cifrado o software especializado).
-- **Hyperthreading**: *Soportado* (permite mejor gestión de hilos virtuales).
-
----
-
-![Imagen: Detalles de la CPU en Speccy](imgs/speccy/img4.png)
-
----
-
-💡 **Consejo**:
-
-- Usa esta sección para verificar si tu CPU soporta tecnologías necesarias (ej: virtualización para emuladores).
-- Núcleos al 100% de frecuencia pueden indicar sobrecarga.
+💡 **Tip**: Si los núcleos están al 100% constantemente, cierra apps en segundo plano o actualiza tu CPU.
 
 ---
 <a id="-ram"></a>
