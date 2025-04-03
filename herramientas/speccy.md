@@ -9,14 +9,16 @@
 
 <table style=border:0;>
   <tr>
-    <td width="55%">
+    <td width="25%">
       <h3>Método 1: Microsoft Store</h3>
+    </td>
+    <td width="35%">
       1. Abre la <strong>Microsoft Store</strong><br>
       2. Busca <em>Speccy</em><br>
       3. Haz clic en <strong>Obtener</strong>
     </td>
     <td width="45%">
-      <img src="imgs/speccy/mstore.png" width="400">
+      <img src="imgs/speccy/mstore.png" width="600">
     </td>
   </tr>
 </table>
@@ -32,7 +34,7 @@
       2. Ejecuta el archivo <code>.exe</code>
     </td>
     <td width="45%">
-      <img src="imgs/speccy/speccy.png" width="400">
+      <img src="imgs/speccy/speccy.png" width="600">
     </td>
   </tr>
 </table>
