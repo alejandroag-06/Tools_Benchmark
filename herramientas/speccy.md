@@ -94,8 +94,12 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 
 ---
 
-![Imagen 1: Detalles del sistema operativo y seguridad](imgs/speccy/img2.png)  
-![Imagen 2: Configuraciones regionales y tiempo de actividad](imgs/speccy/img3.png)  
+<p align="center">
+  <img src="imgs/speccy/img2.png" width="750">
+</p> 
+<p align="center">
+  <img src="imgs/speccy/img3.png" width="750">
+</p>
 
 ---
 
@@ -385,8 +389,12 @@ Speccy lista procesos que usan la red:
 
 ---
 
-![Imagen 1: Configuración de red y adaptadores](imgs/speccy/img12.png)
-![Imagen 2: Conexiones TCP y recursos compartidos](imgs/speccy/img13.png)
+<p align="center">
+  <img src="imgs/speccy/img12.png" width="750">
+</p>
+<p align="center">
+  <img src="imgs/speccy/img13.png" width="750">
+</p>
 
 ---
 
