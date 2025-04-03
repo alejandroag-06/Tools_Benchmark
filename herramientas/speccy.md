@@ -7,53 +7,29 @@
 
 ## 📥 Instalar Speccy
 
-<table>
-  <tr>
-    <th style="width: 30%; font-size: 1.1em">Método</th>
-    <th style="width: 45%; font-size: 1.1em">Pasos</th>
-    <th style="width: 25%; font-size: 1.1em">Imagen</th>
-  </tr>
-  <tr>
-    <td><strong style="font-size: 1.05em">Microsoft Store</strong></td>
-    <td>
-      1. Abre Microsoft Store<br>
-      2. Busca "Speccy"<br>
-      3. Haz clic en <strong>Obtener</strong>
-    </td>
-    <td style="text-align: center; vertical-align: middle">
-      <img src="imgs/speccy/mstore.png" style="width: 220px; border-radius: 8px">
-    </td>
-  </tr>
-  <tr>
-    <td><strong style="font-size: 1.05em">Página Oficial</strong></td>
-    <td>
-      1. Visita <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a><br>
-      2. Descarga el instalador<br>
-      3. Ejecuta el archivo .exe
-    </td>
-    <td style="text-align: center; vertical-align: middle">
-      <img src="imgs/speccy/speccy.png" style="width: 220px; border-radius: 8px">
-    </td>
-  </tr>
-</table>
+# 📥 Instalar Speccy
 
-<style>
-table {
-  width: 100%;
-  margin: 25px 0;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-  text-align: left;
-  vertical-align: top;
-  background-color: transparent;
-}
-th {
-  color: #2c3e50;
-  border-bottom: 2px solid #ecf0f1;
-}
-</style>
+<div style="display: flex; align-items: center; gap: 30px; margin: 25px 0">
+  <div style="flex: 1">
+    <h3>Método 1: Microsoft Store</h3>
+    1. Abre la <strong>Microsoft Store</strong><br>
+    2. Busca <em>Speccy</em><br>
+    3. Haz clic en <strong>Obtener</strong>
+  </div>
+  <img src="imgs/speccy/mstore.png" style="width: 250px; border-radius: 8px">
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 30px; margin: 25px 0">
+  <div style="flex: 1">
+    <h3>Método 2: Página Oficial</h3>
+    1. Descarga desde:<br>
+    <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a><br>
+    2. Ejecuta el archivo <code>.exe</code>
+  </div>
+  <img src="imgs/speccy/speccy.png" style="width: 250px; border-radius: 8px">
+</div>
 
 ## 🔍 Índice
 1. [🚀 1.- Interfaz Principal de Speccy](#-interfaz-principal-de-speccy)  
