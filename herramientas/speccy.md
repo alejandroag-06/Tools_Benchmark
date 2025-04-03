@@ -7,41 +7,53 @@
 
 ## 📥 Instalar Speccy
 
-# 📥 Instalar Speccy
-
 <table>
   <tr>
-    <th width="30%">Método</th>
-    <th width="50%">Pasos</th>
-    <th width="20%">Imagen</th>
+    <th style="width: 30%; font-size: 1.1em">Método</th>
+    <th style="width: 45%; font-size: 1.1em">Pasos</th>
+    <th style="width: 25%; font-size: 1.1em">Imagen</th>
   </tr>
   <tr>
-    <td><strong>Microsoft Store</strong></td>
-    <td>1. Abre la Microsoft Store<br>2. Busca <em>Speccy</em><br>3. Haz clic en <strong>Obtener</strong></td>
-    <td style="text-align:center"><img src="imgs/speccy/mstore.png" width="150"></td>
+    <td><strong style="font-size: 1.05em">Microsoft Store</strong></td>
+    <td>
+      1. Abre Microsoft Store<br>
+      2. Busca "Speccy"<br>
+      3. Haz clic en <strong>Obtener</strong>
+    </td>
+    <td style="text-align: center; vertical-align: middle">
+      <img src="imgs/speccy/mstore.png" style="width: 220px; border-radius: 8px">
+    </td>
   </tr>
   <tr>
-    <td><strong>Página Oficial</strong></td>
-    <td>1. Visita <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a><br>2. Descarga el instalador<br>3. Ejecuta el archivo .exe</td>
-    <td style="text-align:center"><img src="imgs/speccy/speccy.png" width="150"></td>
+    <td><strong style="font-size: 1.05em">Página Oficial</strong></td>
+    <td>
+      1. Visita <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a><br>
+      2. Descarga el instalador<br>
+      3. Ejecuta el archivo .exe
+    </td>
+    <td style="text-align: center; vertical-align: middle">
+      <img src="imgs/speccy/speccy.png" style="width: 220px; border-radius: 8px">
+    </td>
   </tr>
 </table>
 
 <style>
 table {
-  border-collapse: collapse;
   width: 100%;
-  margin: 20px 0;
+  margin: 25px 0;
+  border-collapse: collapse;
 }
 th, td {
-  border: 1px solid #ddd;
-  padding: 12px;
+  padding: 15px;
+  text-align: left;
   vertical-align: top;
+  background-color: transparent;
 }
 th {
-  background-color: #f5f5f5;
+  color: #2c3e50;
+  border-bottom: 2px solid #ecf0f1;
 }
-</style> 
+</style>
 
 ## 🔍 Índice
 1. [🚀 1.- Interfaz Principal de Speccy](#-interfaz-principal-de-speccy)  
