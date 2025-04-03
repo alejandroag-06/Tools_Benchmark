@@ -1,6 +1,5 @@
 # 🖥️ Guía Rápida: Cómo Usar Speccy para Analizar tu PC
 
-**Introducción**  
 **Speccy** es tu aliado perfecto para conocer los componentes de tu equipo. Esta aplicación muestra de forma clara y organizada toda la información relevante de tu hardware y sistema operativo. ¡Aprende a usarla en minutos!
 
 ---
