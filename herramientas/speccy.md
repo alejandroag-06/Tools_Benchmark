@@ -298,7 +298,7 @@ Esta sección detecta lectores de CD/DVD/Blu-Ray:
 
 ---
 <a id="-audio"></a>
-# 🔊 9.- Audio
+## 🔊 9.- Audio
 
 Esta sección lista los dispositivos de sonido detectados por tu sistema. Así se interpreta:
 
@@ -328,7 +328,7 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 ---
 
 <a id="-periféricos"></a>
-# 🖱️ 10.- Periféricos
+## 🖱️ 10.- Periféricos
 
 Esta sección lista los dispositivos de entrada y salida detectados:
 
@@ -358,7 +358,7 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 ---
 
 <a id="-red"></a>
-# 🌐 11.- Red
+## 🌐 11.- Red
 
 Esta sección muestra cómo tu PC se integra en la red local e internet. Te explicamos lo esencial:
 
