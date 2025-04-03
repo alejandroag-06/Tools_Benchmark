@@ -1,40 +1,28 @@
 # 🖥️ Guía Rápida: Cómo Usar Speccy para Analizar tu PC
 
-**Introducción**
+**Introducción**  
 **Speccy** es tu aliado perfecto para conocer los componentes de tu equipo. Esta aplicación muestra de forma clara y organizada toda la información relevante de tu hardware y sistema operativo. ¡Aprende a usarla en minutos!
 
 ---
 
 ## 📥 Instalar Speccy
 
-<table>
-  <tr>
-    <td width="55%" style="border: none; padding: 10px">
-      <h3>Método 1: Microsoft Store</h3>
-      1. Abre la <strong>Microsoft Store</strong><br>
-      2. Busca <em>Speccy</em><br>
-      3. Haz clic en <strong>Instalar</strong>
-    </td>
-    <td width="45%" style="border: none; padding: 10px">
-      <img src="imgs/speccy/mstore.png" width="750">
-    </td>
-  </tr>
-</table>
+### Método 1: Microsoft Store  
+1. Abre la **Microsoft Store**  
+2. Busca _Speccy_  
+3. Haz clic en **Instalar**  
+
+![Búsqueda en Microsoft Store](imgs/speccy/mstore.png)
 
 ---
 
-<table>
-  <tr>
-    <td width="55%" style="border: none; padding: 10px">
-      <h3>Método 2: Página Oficial</h3>
-      1. Descarga desde: <a href="https://www.ccleaner.com/es-es/speccy/download">ccleaner.com/speccy</a> <br>
-      2. Ejecuta el archivo <code>.exe</code>
-    </td>
-    <td width="45%" style="border: none; padding: 10px">
-      <img src="imgs/speccy/speccy.png" width="750">
-    </td>
-  </tr>
-</table>
+### Método 2: Página Oficial  
+1. Descarga desde: [ccleaner.com/speccy](https://www.ccleaner.com/es-es/speccy/download)  
+2. Ejecuta el archivo `.exe`  
+
+![Descarga desde web oficial](imgs/speccy/speccy.png)
+
+---
 
 ## 🔍 Índice
 1. [🚀 1.- Interfaz Principal de Speccy](#-interfaz-principal-de-speccy)  
@@ -50,292 +38,251 @@
 11. [🌐 11.- Red](#-red) 
 
 ---
-<a id="-interfaz-principal-de-speccy"></a>
 
+<a id="-interfaz-principal-de-speccy"></a>
 ## 🚀 **1.- Interfaz Principal de Speccy**
 
 Al abrir Speccy, verás una pantalla dividida en dos bloques clave:
 
-### 📋 **Panel de Resumen (Sumario)**
+### 📋 **Panel de Resumen (Sumario)**  
+Aquí se listan los componentes principales de tu PC. Cada ítem te da acceso rápido a detalles específicos:  
+- **Sistema operativo**: Versión y tipo de Windows instalado.  
+- **CPU**: Modelo y marca del procesador.  
+- **RAM**: Capacidad total de memoria.  
+- **Placa base**: Fabricante y modelo de la tarjeta madre.  
+- **Gráfica**: Tarjeta gráfica integrada o dedicada.  
+- **Almacenamiento**: Discos duros o SSD detectados.  
 
-Aquí se listan los componentes principales de tu PC. Cada ítem te da acceso rápido a detalles específicos:
+### 🔍 **Panel de Detalles Técnicos**  
+Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:  
+- **Monitor**: Resolución y frecuencia de refresco.  
+- **Audio**: Controladores y dispositivos de sonido.  
+- **Unidades ópticas**: Estado de lectores de CD/DVD.  
 
-- **Sistema operativo**: Versión y tipo de Windows instalado.
-- **CPU**: Modelo y marca del procesador.
-- **RAM**: Capacidad total de memoria.
-- **Placa base**: Fabricante y modelo de la tarjeta madre.
-- **Gráfica**: Tarjeta gráfica integrada o dedicada.
-- **Almacenamiento**: Discos duros o SSD detectados.
-
-### 🔍 **Panel de Detalles Técnicos**
-
-Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
-
-- **Monitor**: Resolución y frecuencia de refresco.
-- **Audio**: Controladores y dispositivos de sonido.
-- **Unidades ópticas**: Estado de lectores de CD/DVD.
-
-✨ **Tip**: Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".
+✨ **Tip**: Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".  
 
 ---
 
 ![Imagen 1: Vista principal de Speccy con resumen y detalles técnicos](imgs/speccy/img1.png)
 
 ---
+
 <a id="-sistema-operativo"></a>
+## 📂 **2.- Sistema Operativo**  
+Esta sección centraliza información crítica sobre tu sistema y configuraciones clave. Te explicamos qué datos son más relevantes y cómo interpretarlos:  
 
-# 📂 2.- Sistema Operativo
+### 🔍 **Datos Principales**  
+#### 1. **Información Básica**  
+- **Versión de Windows**: Ej: *Windows 11 Pro 64-bit*.  
+- **Tipo de ordenador**: Indica si es físico o virtual (*Virtual* en este caso).  
+- **Fecha de instalación**: Útil para identificar actualizaciones recientes o problemas posteriores.  
 
-Esta sección centraliza información crítica sobre tu sistema y configuraciones clave. Te explicamos qué datos son más relevantes y cómo interpretarlos:
+#### 2. **Seguridad**  
+- **Control de Cuentas (UAC)**: Nivel de notificaciones (*Por defecto*).  
+- **Cortafuegos y Antivirus**: Estado (*Activado*) y nombre del monitor (*Windows Defender*).  
+- **Actualizaciones de virus**: Verifica si la base de datos está *Actualizada*.  
 
+#### 3. **Tiempo de Actividad**  
+- **Último arranque**: Fecha y hora del inicio del sistema.  
+- **Tiempo activo actual**: Duración desde el último reinicio (ej: *2 horas, 47 minutos*).  
 
-## 🔍 **Datos Principales**
-
-### 1. **Información Básica**
-
-- **Versión de Windows**: Ej: *Windows 11 Pro 64-bit*.
-- **Tipo de ordenador**: Indica si es físico o virtual (*Virtual* en este caso).
-- **Fecha de instalación**: Útil para identificar actualizaciones recientes o problemas posteriores.
-
-### 2. **Seguridad**
-
-- **Control de Cuentas (UAC)**: Nivel de notificaciones (*Por defecto*).
-- **Cortafuegos y Antivirus**: Estado (*Activado*) y nombre del monitor (*Windows Defender*).
-- **Actualizaciones de virus**: Verifica si la base de datos está *Actualizada*.
-
-### 3. **Tiempo de Actividad**
-
-- **Último arranque**: Fecha y hora del inicio del sistema.
-- **Tiempo activo actual**: Duración desde el último reinicio (ej: *2 horas, 47 minutos*).
-
-### 4. **Configuraciones Regionales**
-
-- **Zona horaria**: GMT +1 (España).
-- **Idioma y formato**: Español, fecha (*dd/MM/aaaa*), moneda (€).
+#### 4. **Configuraciones Regionales**  
+- **Zona horaria**: GMT +1 (España).  
+- **Idioma y formato**: Español, fecha (*dd/MM/aaaa*), moneda (€).  
 
 ---
 
-![Imagen 1: Detalles del sistema operativo y seguridad](imgs/speccy/img2.png)
-![Imagen 2: Configuraciones regionales y tiempo de actividad](imgs/speccy/img3.png)
+![Imagen 1: Detalles del sistema operativo y seguridad](imgs/speccy/img2.png)  
+![Imagen 2: Configuraciones regionales y tiempo de actividad](imgs/speccy/img3.png)  
 
 ---
 
-## 💡 **¿Para qué sirve esta información?**
+### 💡 **¿Para qué sirve esta información?**  
+- **Diagnóstico rápido**: Verifica si el antivirus está activo o si hay problemas de actualizaciones.  
+- **Solución de errores**: El tiempo de actividad ayuda a identificar reinicios inesperados.  
+- **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.  
 
-- **Diagnóstico rápido**: Verifica si el antivirus está activo o si hay problemas de actualizaciones.
-- **Solución de errores**: El tiempo de actividad ayuda a identificar reinicios inesperados.
-- **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.
-
-⚠️ **Nota**: Evita compartir datos sensibles como el *número de serie de Windows*.
+⚠️ **Nota**: Evita compartir datos sensibles como el *número de serie de Windows*.  
 
 ---
+
 <a id="-cpu"></a>
+## ⚙️ **3.- CPU**  
+Aquí encontrarás datos clave del microprocesador instalado en tu equipo:  
 
-## ⚙️ 3.- Procesador (CPU)  
-### ¿Qué información encontrarás aquí?  
-Speccy detalla el rendimiento y capacidades de tu CPU. Así puedes interpretar los datos:  
+### 🖥️ **Información Relevante**  
+- **Modelo**: *13th Gen Intel Core i7-13620H* (identifica la generación y potencia).  
+- **Núcleos/Hilos**: 10 núcleos físicos y 16 hilos (ideal para multitarea o aplicaciones pesadas).  
+- **Cachés**:  
+  - **L3**: 24.5 MB (mayor caché = mejor rendimiento en tareas repetitivas).  
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap">
-  <div style="flex: 1; min-width: 250px">
-  
-  ### 📌 Especificaciones Clave  
-  - **Modelo**: Intel Core i7-13620H (13ª Gen)  
-  - **Núcleos/Hilos**: 10/16 → Ideal para streaming o edición.  
-  - **Caché L3**: 24.5 MB (acelera tareas repetitivas).  
+### 📊 **Velocidades en Tiempo Real**  
+Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables indican buen funcionamiento.  
 
-  ### 🔄 Rendimiento en Tiempo Real  
-  - **Frecuencias**: ~2918 MHz (valores estables = buen funcionamiento).  
-  - **Tecnologías**:  
-    - *Hyperthreading*: Activo → Multitarea fluida.  
-    - *AVX2/AES*: Soporte para cifrado y apps especializadas.  
-
-  </div>
-  <div style="flex: 1; min-width: 250px">
-    <img src="imgs/speccy/img4.png" style="width: 100%; border-radius: 8px">
-  </div>
-</div>
-
-💡 **Tip**: Si los núcleos están al 100% constantemente, cierra apps en segundo plano o actualiza tu CPU.
+### 🔍 **Detalles Técnicos (Opcional)**  
+- **Instrucciones soportadas**: AVX2, AES (útiles para cifrado o software especializado).  
+- **Hyperthreading**: *Soportado* (permite mejor gestión de hilos virtuales).  
 
 ---
+
+![Imagen: Detalles de la CPU en Speccy](imgs/speccy/img4.png)  
+
+---
+
+💡 **Consejo**:  
+- Usa esta sección para verificar si tu CPU soporta tecnologías necesarias (ej: virtualización para emuladores).  
+- Núcleos al 100% de frecuencia pueden indicar sobrecarga.  
+
+---
+
 <a id="-ram"></a>
+## 🧠 **4.- RAM**  
+Esta sección muestra información breve sobre la memoria. Aunque es breve, estos datos son clave:  
 
-# 🧠 4.- RAM
+### 📌 **Datos Esenciales**  
+- **RAM Total**: 16 GB (capacidad máxima de tu sistema).  
+- **En Uso**: 42% (ideal mantenerlo bajo 80% para buen rendimiento).  
+- **Disponible**: ~9 GB (memoria libre para nuevas tareas).  
 
-
-Esta sección muestra información breve sobre la memoria. Aunque es breve, estos datos son clave:
-
-
-## 📌 **Datos Esenciales**
-
-- **RAM Total**: 16 GB (capacidad máxima de tu sistema).
-- **En Uso**: 42% (ideal mantenerlo bajo 80% para buen rendimiento).
-- **Disponible**: ~9 GB (memoria libre para nuevas tareas).
-
-## 💡 **¿Cómo usarlo?**
-
-- Si el **% en uso** supera 90%, cierra programas pesados.
-- **Memoria virtual**: 17 GB total (espacio en disco usado como "RAM extra").
+### 💡 **¿Cómo usarlo?**  
+- Si el **% en uso** supera 90%, cierra programas pesados.  
+- **Memoria virtual**: 17 GB total (espacio en disco usado como "RAM extra").  
 
 ---
 
-![Imagen: Estadísticas de RAM en Speccy](imgs/speccy/img5.png)
+![Imagen: Estadísticas de RAM en Speccy](imgs/speccy/img5.png)  
 
 ---
 
-⚠️ **Nota**:
-
-- *SPD no detectado*: Indica que Speccy no puede leer datos técnicos de los módulos de RAM (común en equipos virtuales o ciertas marcas).
+⚠️ **Nota**:  
+- *SPD no detectado*: Indica que Speccy no puede leer datos técnicos de los módulos de RAM (común en equipos virtuales o ciertas marcas).  
 
 ---
 <a id="-placa-base"></a>
-
-# 🔌 5.- Placa Base
-
+## 🔌 **5.- Placa Base**
 
 Esta sección muestra detalles técnicos de la placa base y sus conexiones:
 
-
-## 📋 **Datos Clave**
-
-- **Fabricante**: *LENOVO* (equipos preensamblados).
-- **Modelo**: *LNVNB161216 (U3E1)* (identifica compatibilidad con componentes).
-- **BIOS**: Versión *LTCN34WW* (actualizarlo puede mejorar estabilidad).
+### 📋 **Datos Clave**  
+- **Fabricante**: *LENOVO* (equipos preensamblados).  
+- **Modelo**: *LNVNB161216 (U3E1)* (identifica compatibilidad con componentes).  
+- **BIOS**: Versión *LTCN34WW* (actualizarlo puede mejorar estabilidad).  
 
 ---
 
-## 🛠️ **Ranuras PCI-E**
+### 🛠️ **Ranuras PCI-E**  
+Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso físico:  
 
-Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso físico:
-
-| Tipo de Ranura | Estado      | Observaciones |  
-|----------------|-------------|---------------|  
-| **PCI-E x1**   | *En uso*    | Posiblemente usada por dispositivos integrados (ej: Wi-Fi o tarjeta de red). |  
-| **PCI-E x4**   | *Disponible*| Ideal para ampliar almacenamiento (ej: SSD NVMe) o tarjetas de bajo consumo. |  
-| **PCI-E x1**   | *Disponible*| Libre para añadir hardware adicional (ej: tarjeta de sonido). |
-
----
-
-![Imagen: Detalles de la placa base y ranuras PCI-E](imgs/speccy/img6.png)
+| Tipo de Ranura | Estado       | Observaciones                              |
+|----------------|--------------|--------------------------------------------|
+| **PCI-E x1**   | *En uso*     | Usada por dispositivos integrados (Wi-Fi)  |
+| **PCI-E x4**   | *Disponible* | Ideal para SSD NVMe o hardware de bajo consumo |
+| **PCI-E x1**   | *Disponible* | Libre para expansiones adicionales         |
 
 ---
 
-💡 **Consejos Prácticos**:
-
-1. Si quieres añadir una GPU u otro hardware, usa la ranura **PCI-E x4** (mayor ancho de banda).
-2. Verifica el manual de tu placa base para confirmar límites de potencia y compatibilidad.
+![Detalles de la placa base y ranuras PCI-E](imgs/speccy/img6.png)
 
 ---
+
+### 💡 **Consejos Prácticos**  
+1. Usa la ranura **PCI-E x4** para tarjetas que requieran mayor ancho de banda  
+2. Consulta el manual de tu placa base para verificar límites de potencia  
+
+---
+
 <a id="-gráfica"></a>
-
-# 🎮 6.- Gráfica
-
+## 🎮 **6.- Gráfica**
 
 Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 
-
-## 🖥️ **Monitor**
-
-- **Nombre**: Suele ser genérico (ej: *Generic PnP Monitor*) en portátiles o PCs preensamblados.
-- **Resolución actual**: 1536x864 (ajustes activos del sistema).
-- **Frecuencia de refresco**: 60 Hz (ideal para uso cotidiano).
-- **Tamaño nativo**: 1920x1080 (resolución máxima recomendada).
+### 🖥️ **Monitor**  
+- **Nombre**: Genérico (ej: *Generic PnP Monitor*) en equipos preensamblados  
+- **Resolución actual**: 1536x864 (configuración activa)  
+- **Frecuencia**: 60 Hz  
+- **Tamaño nativo**: 1920x1080  
 
 ---
 
-## 🔧 **Tarjeta Gráfica Integrada**
-
-- **Modelo**: *Intel UHD Graphics* (común en procesadores modernos).
-- **Controlador**: Versión *32.0.101.5763* (actualízalo para mejor rendimiento).
-- **Compatibilidad**: Soporta resoluciones HD/Full HD y tareas básicas de diseño.
-
----
-
-![Imagen: Detalles de gráfica y monitor en Speccy](imgs/speccy/img7.png)
+### 🔧 **Tarjeta Gráfica Integrada**  
+- **Modelo**: *Intel UHD Graphics*  
+- **Controlador**: Versión *32.0.101.5763*  
+- **Compatibilidad**: Soporta HD/Full HD y diseño básico  
 
 ---
 
-💡 **Consejos Prácticos**:
-
-1. Si usas **juegos o software 3D**, verifica si tu GPU soporta DirectX/Vulkan en la sección "Instrucciones" de la CPU.
-2. Un nombre genérico en el monitor **no indica problemas**; es normal en equipos con gráficos integrados.
-3. Para pantallas externas, Speccy mostrará otro dispositivo en *\\\\.\DISPLAY2* (si está conectado).
+![Detalles de gráfica y monitor](imgs/speccy/img7.png)
 
 ---
+
+### 💡 **Consejos Prácticos**  
+1. Verifica compatibilidad con DirectX/Vulkan para juegos 3D  
+2. Nombres genéricos en monitores son normales en gráficos integrados  
+3. Pantallas externas aparecerán como *\\\\.\DISPLAY2*  
+
+---
+
 <a id="-almacenamiento"></a>
+## 💾 **7.- Almacenamiento**
 
-# 💾 7.- Almacenamiento
+Esta sección detalla la información técnica del disco:
 
-
-Esta sección detalla la información técnica y cómo está distribuido el espacio en tu disco:
-
-
-## 🖴 **Disco Principal**
-
-- **Modelo**: *SOLIDIGM SSDPFINW010TZL* (SSD de 953 GB).
-- **Interfaz**: *Desconocido* (común en equipos OEM; no afecta rendimiento).
+### 🖴 **Disco Principal**  
+- **Modelo**: *SOLIDIGM SSDPFINW010TZL* (953 GB SSD)  
+- **Interfaz**: *Desconocido* (común en equipos OEM)  
 
 ---
 
-## 📂 **Particiones y Sistemas de Archivos**
-
-| Partición | Sistema de Archivos | Uso Principal |  
-|-----------|---------------------|---------------|  
-| **C:**    | NTFS                | Sistema operativo y programas (Windows). |  
-| **FAT32** | FAT32               | Partición pequeña para recuperación o EFI. |
-
-⚠️ **NTFS en Linux**:
-
-- Linux puede **leer** NTFS, pero para **escribir** requiere herramientas como `ntfs-3g`.
-- Para dual-boot, considera formatear en **exFAT** (compatible con Windows/Linux/macOS).
+### 📂 **Particiones y Sistemas de Archivos**  
+| Partición | Sistema de Archivos | Función Principal         |
+|-----------|---------------------|---------------------------|
+| **C:**    | NTFS                | Sistema operativo Windows |
+| **FAT32** | FAT32               | Partición de recuperación |
 
 ---
 
-![Imagen: Detalles de almacenamiento en Speccy](imgs/speccy/img8.png)
+![Detalles de almacenamiento](imgs/speccy/img8.png)
 
 ---
 
-💡 **Consejos Prácticos**:
-
-1. **NTFS vs FAT32**:
-   - NTFS: Ideal para Windows (soporta archivos >4 GB).
-   - FAT32: Útil para memorias USB o compatibilidad universal.
-2. La partición de **654 MB** (NTFS) suele ser reservada para actualizaciones del sistema.
-3. *S.M.A.R.T no soportado*: No es crítico; herramientas como CrystalDiskInfo dan más detalles.
+### ⚠️ **NTFS en Linux**  
+- Lectura compatible  
+- Escritura requiere `ntfs-3g`  
+- Para dual-boot: usar **exFAT**
 
 ---
+
+### 💡 **Consejos Prácticos**  
+1. NTFS: Ideal para archivos grandes (>4 GB)  
+2. FAT32: Recomendado para memorias USB  
+3. Partición de 654 MB: reservada para actualizaciones  
+
+---
+
 <a id="-unidades-ópticas"></a>
+## 📀 **8.- Unidades Ópticas**
 
-# 📀 8.- Unidades Ópticas
+Esta sección detecta lectores de CD/DVD/Blu-Ray:
 
-
-Esta sección detecta dispositivos como lectores de CD, DVD o Blu-Ray. Así funciona:
-
-
-## 🛠️ **¿Qué verías si tuvieras una?**
-
-- **Modelo**: Ej: *ASUS DRW-24B1ST*.
-- **Tipo**: Lector/Grabadora (ej: DVD-RW).
-- **Detalles**: Firmware, velocidad máxima de lectura/escritura.
+### 🛠️ **¿Qué verías si tuvieras una?**  
+- **Modelo**: Ej: *ASUS DRW-24B1ST*  
+- **Tipo**: Lectora/Grabadora DVD-RW  
+- **Detalles**: Firmware y velocidades  
 
 ---
 
-![Imagen: Estado de unidades ópticas en Speccy](imgs/speccy/img9.png)
+![Estado de unidades ópticas](imgs/speccy/img9.png)
 
 ---
 
-💡 **Nota**:
-
-- Si no aparece nada, significa que tu PC no tiene unidad óptica física conectada (común en equipos modernos).
+### 💡 **Nota**  
+- Si no aparece nada = No hay unidad física conectada  
 
 ---
 <a id="-audio"></a>
-
 # 🔊 9.- Audio
 
-
 Esta sección lista los dispositivos de sonido detectados por tu sistema. Así se interpreta:
-
 
 ## 🎧 **Datos Clave**
 
@@ -343,6 +290,7 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
   
   - *Realtek High Definition Audio*: Controlador principal para altavoces/auriculares.
   - *Intel Smart Sound Technology*: Gestiona audio Bluetooth (si hay dispositivos conectados).
+
 - **Dispositivos activos**:
   
   - **Reproducción**: *Altavoces (Realtek Audio)* (salida de audio predeterminada).
@@ -359,10 +307,9 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 - Si no aparecen dispositivos, verifica conexiones o reinstala controladores.
 
 ---
+
 <a id="-periféricos"></a>
-
 # 🖱️ 10.- Periféricos
-
 
 Esta sección lista los dispositivos de entrada y salida detectados:
 
@@ -388,12 +335,11 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 2. Los dispositivos *HID* repetidos son controladores estándar de Windows.
 
 ---
-<a id="-red"></a>
 
+<a id="-red"></a>
 # 🌐 11.- Red
 
 Esta sección muestra cómo tu PC se integra en la red local e internet. Te explicamos lo esencial:
-
 
 ## 📡 **Conexión Principal**
 
@@ -436,4 +382,3 @@ Speccy lista procesos que usan la red:
 ---
 
 ¡Felicidades! Tras terminar esta guia ya deberias entender como funciona Speccy 🎉
-
