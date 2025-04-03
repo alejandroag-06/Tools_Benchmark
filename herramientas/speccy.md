@@ -7,13 +7,13 @@
 
 ## 📥 Instalar Speccy
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td width="55%" style="border: none; padding: 10px">
       <h3>Método 1: Microsoft Store</h3>
       1. Abre la <strong>Microsoft Store</strong><br>
       2. Busca <em>Speccy</em><br>
-      3. Haz clic en <strong>Obtener</strong>
+      3. Haz clic en <strong>Instalar</strong>
     </td>
     <td width="45%" style="border: none; padding: 10px">
       <img src="imgs/speccy/mstore.png" width="750">
@@ -23,7 +23,7 @@
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td width="55%" style="border: none; padding: 10px">
       <h3>Método 2: Página Oficial</h3>
