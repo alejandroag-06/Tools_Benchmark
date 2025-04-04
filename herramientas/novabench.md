@@ -169,7 +169,6 @@ Usa **Sensors & Charts** para:
 
 <p align="center">
   <img src="imgs/novabench/img-9.png" width="750">
-  <em>Datos en tiempo real.</em>
 </p>
 
 <a id="-plan-premium-de-novabench"></a>
