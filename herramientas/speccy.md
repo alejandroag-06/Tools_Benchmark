@@ -186,6 +186,8 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 | **PCI-E x4**   | *Disponible* | Ideal para SSD NVMe o hardware de bajo consumo |
 | **PCI-E x1**   | *Disponible* | Libre para expansiones adicionales         |
 
+---
+
 <p align="center">
   <img src="imgs/speccy/img6.png" width="750">
 </p>
@@ -238,8 +240,6 @@ Esta sección detalla la información técnica del disco:
 |-----------|---------------------|---------------------------|
 | **C:**    | NTFS                | Sistema operativo Windows |
 | **FAT32** | FAT32               | Partición de recuperación |
-
----
 
 <p align="center">
   <img src="imgs/speccy/img8.png" width="750">
