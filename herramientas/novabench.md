@@ -174,7 +174,7 @@ Usa **Sensors & Charts** para:
 ---
 
 <a id="-plan-premium-de-novabench"></a>
-## 💎 **Plan Premium de Novabench**  
+## 💎 **7. Plan Premium de Novabench**  
 
 El plan **Premium** ofrece herramientas avanzadas para usuarios profesionales que necesitan análisis profundos de los equipos. Aquí las ventajas clave:  
 
