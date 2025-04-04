@@ -72,9 +72,7 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 - **Audio**: Controladores y dispositivos de sonido.  
 - **Unidades ópticas**: Estado de lectores de CD/DVD.  
 
-✨ **Tip**: Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".  
-
----
+✨ **Tip**: Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".
 
 <p align="center">
   <img src="imgs/speccy/img1.png" width="750">
@@ -105,16 +103,12 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 - **Zona horaria**: GMT +1 (España).  
 - **Idioma y formato**: Español, fecha (*dd/MM/aaaa*), moneda (€).  
 
----
-
 <p align="center">
-  <img src="imgs/speccy/img2.png" width="750">
+  <img src="imgs/speccy/img2.png" width="700">
 </p> 
 <p align="center">
-  <img src="imgs/speccy/img3.png" width="750">
+  <img src="imgs/speccy/img3.png" width="700">
 </p>
-
----
 
 ### 💡 **¿Para qué sirve esta información?**  
 - **Diagnóstico rápido**: Verifica si el antivirus está activo o si hay problemas de actualizaciones.  
@@ -142,13 +136,9 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
 - **Instrucciones soportadas**: AVX2, AES (útiles para cifrado o software especializado).  
 - **Hyperthreading**: *Soportado* (permite mejor gestión de hilos virtuales).  
 
----
-
 <p align="center">
   <img src="imgs/speccy/img4.png" width="750">
 </p> 
-
----
 
 💡 **Consejo**:  
 - Usa esta sección para verificar si tu CPU soporta tecnologías necesarias (ej: virtualización para emuladores).  
@@ -169,13 +159,9 @@ Esta sección muestra información breve sobre la memoria. Aunque es breve, esto
 - Si el **% en uso** supera 90%, cierra programas pesados.  
 - **Memoria virtual**: 17 GB total (espacio en disco usado como "RAM extra").  
 
----
-
 <p align="center">
   <img src="imgs/speccy/img5.png" width="750">
 </p> 
-
----
 
 ⚠️ **Nota**:  
 - *SPD no detectado*: Indica que Speccy no puede leer datos técnicos de los módulos de RAM (común en equipos virtuales o ciertas marcas).  
@@ -191,8 +177,6 @@ Esta sección muestra detalles técnicos de la placa base y sus conexiones:
 - **Modelo**: *LNVNB161216 (U3E1)* (identifica compatibilidad con componentes).  
 - **BIOS**: Versión *LTCN34WW* (actualizarlo puede mejorar estabilidad).  
 
----
-
 ### 🛠️ **Ranuras PCI-E**  
 Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso físico:  
 
@@ -202,13 +186,10 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 | **PCI-E x4**   | *Disponible* | Ideal para SSD NVMe o hardware de bajo consumo |
 | **PCI-E x1**   | *Disponible* | Libre para expansiones adicionales         |
 
----
-
 <p align="center">
   <img src="imgs/speccy/img6.png" width="750">
 </p>
 
----
 
 ### 💡 **Consejos Prácticos**  
 1. Usa la ranura **PCI-E x4** para tarjetas que requieran mayor ancho de banda  
@@ -227,20 +208,14 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 - **Frecuencia**: 60 Hz  
 - **Tamaño nativo**: 1920x1080  
 
----
-
 ### 🔧 **Tarjeta Gráfica Integrada**  
 - **Modelo**: *Intel UHD Graphics*  
 - **Controlador**: Versión *32.0.101.5763*  
 - **Compatibilidad**: Soporta HD/Full HD y diseño básico  
 
----
-
 <p align="center">
   <img src="imgs/speccy/img7.png" width="750">
 </p>
-
----
 
 ### 💡 **Consejos Prácticos**  
 1. Verifica compatibilidad con DirectX/Vulkan para juegos 3D  
@@ -258,28 +233,20 @@ Esta sección detalla la información técnica del disco:
 - **Modelo**: *SOLIDIGM SSDPFINW010TZL* (953 GB SSD)  
 - **Interfaz**: *Desconocido* (común en equipos OEM)  
 
----
-
 ### 📂 **Particiones y Sistemas de Archivos**  
 | Partición | Sistema de Archivos | Función Principal         |
 |-----------|---------------------|---------------------------|
 | **C:**    | NTFS                | Sistema operativo Windows |
 | **FAT32** | FAT32               | Partición de recuperación |
 
----
-
 <p align="center">
   <img src="imgs/speccy/img8.png" width="750">
 </p>
-
----
 
 ### ⚠️ **NTFS en Linux**  
 - Lectura compatible  
 - Escritura requiere `ntfs-3g`  
 - Para dual-boot: usar **exFAT**
-
----
 
 ### 💡 **Consejos Prácticos**  
 1. NTFS: Ideal para archivos grandes (>4 GB)  
@@ -298,13 +265,9 @@ Esta sección detecta lectores de CD/DVD/Blu-Ray:
 - **Tipo**: Lectora/Grabadora DVD-RW  
 - **Detalles**: Firmware y velocidades  
 
----
-
 <p align="center">
   <img src="imgs/speccy/img9.png" width="750">
 </p>
-
----
 
 ### 💡 **Nota**  
 - Si no aparece nada = No hay unidad física conectada  
@@ -327,12 +290,9 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
   - **Reproducción**: *Altavoces (Realtek Audio)* (salida de audio predeterminada).
   - **Grabación**: *Micrófonos (Realtek Audio)* (entrada de voz o sonido).
 
----
-
 <p align="center">
   <img src="imgs/speccy/img10.png" width="750">
 </p>
----
 
 💡 **Nota**:
 
@@ -355,13 +315,9 @@ Esta sección lista los dispositivos de entrada y salida detectados:
 - **Mouse ELAN**: Táctil integrado en portátiles (controlador de precisión).
 - **Mouse USB**: El físico conectado (*Proveedor: Unknown* es normal en dispositivos básicos).
 
----
-
 <p align="center">
   <img src="imgs/speccy/img11.png" width="750">
 </p>
-
----
 
 💡 **Notas rápidas**:
 
@@ -382,15 +338,11 @@ Esta sección muestra cómo tu PC se integra en la red local e internet. Te expl
   - *DHCP Activado*: Tu dirección IP y servidores DNS se asignan automáticamente.
   - *Puerta de enlace*: Dispositivo que gestiona el tráfico entre tu red e internet.
 
----
-
 ## 🖧 **Red Local**
 
 - **Nombre del PC**: Identificador único en la red (ej: *DESKTOP-T9V2443*).
 - **Grupo de trabajo**: *WORKGROUP* (configuración estándar para redes domésticas).
 - **Recursos compartidos**: *No hay recursos compartidos* (seguridad básica por defecto).
-
----
 
 ## 🔄 **Conexiones Activas**
 
@@ -400,16 +352,12 @@ Speccy lista procesos que usan la red:
 - **Servicios del sistema**: *svchost.exe, lsass.exe*.
 - **Aplicaciones de terceros**: *GitKraken, Ollama*.
 
----
-
 <p align="center">
   <img src="imgs/speccy/img12.png" width="750">
 </p>
 <p align="center">
   <img src="imgs/speccy/img13.png" width="750">
 </p>
-
----
 
 💡 **Consejos Prácticos**:
 
