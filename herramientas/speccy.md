@@ -115,8 +115,8 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 - **Solución de errores**: El tiempo de actividad ayuda a identificar reinicios inesperados.  
 - **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.  
 
-[!WARNING]
-Evita compartir datos sensibles como el *número de serie de Windows*.  
+> [!WARNING]
+> Evita compartir datos sensibles como el *número de serie de Windows*.  
 
 ---
 
