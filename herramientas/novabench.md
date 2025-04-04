@@ -178,8 +178,6 @@ Usa **Sensors & Charts** para:
 
 El plan **Premium** ofrece herramientas avanzadas para usuarios profesionales que necesitan análisis profundos de los equipos. Aquí las ventajas clave:  
 
----
-
 ### 💵 **Funciones Exclusivas del Premium**  
 1. **Terminal de Comandos (CLI)**:  
    - Ejecuta benchmarks desde la línea de comandos para automatizar pruebas en múltiples equipos o integrar Novabench en flujos de trabajo técnicos.  
