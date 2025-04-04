@@ -162,8 +162,8 @@ Esta sección muestra información breve sobre la memoria. Aunque es breve, esto
   <img src="imgs/speccy/img5.png" width="750">
 </p> 
 
-⚠️ **Nota**:  
-- *SPD no detectado*: Indica que Speccy no puede leer datos técnicos de los módulos de RAM (común en equipos virtuales o ciertas marcas).  
+> [!NOTE]  
+> *SPD no detectado*: Indica que Speccy no puede leer datos técnicos de los módulos de RAM (común en equipos virtuales o ciertas marcas).  
 
 ---
 <a id="-placa-base"></a>
