@@ -8,19 +8,14 @@
 
 <table>
   <tr>
-    <td colspan="2" style="border: none; padding: 10px">
+    <td width="55%" style="border: none; padding: 10px">
       <h3>Método Único: Página Oficial</h3>
       1. Descarga desde: <a href="https://novabench.com/download">novabench.com/download</a><br>
-      2. Ejecuta el archivo <code>.ms1</code> (si tu sistema operativo es Windows)<br>
-      3. Sigue el asistente de instalación (sin bloatware).
+      2. Ejecuta el archivo <code>.msi</code>(si tu sistema operativo es Windows)<br>
+      3. Sigue el asistente de instalación.
     </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 10px">
-      <img src="imgs/novabench/download-1.png" width="650">
-    </td>
-    <td style="border: none; padding: 10px">
-      <img src="imgs/novabench/download-2.png" width="650">
+    <td width="45%" style="border: none; padding: 10px">
+      <img src="imgs/novabench/download-1.png" width="750">
     </td>
   </tr>
 </table>
@@ -91,6 +86,7 @@ Métricas en tiempo real:
     </td>
   </tr>
 </table>
+
 ---
 
 <a id="-resultados-y-comparativas"></a>
