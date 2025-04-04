@@ -141,7 +141,7 @@ Accede a datos técnicos completos:
 <a id="-pruebas-avanzadas"></a>
 ## 🔥 **5. Pruebas Avanzadas**  
 
-**Nota**: Las siguientes funciones requieren la versión **Premium** de Novabench.  
+⚠️ **Nota**: Las siguientes funciones requieren la versión **Premium** de Novabench.  
 
 ### 🧪 **Stress Test**  
 - **Función**: Simula carga máxima en componentes para evaluar estabilidad y refrigeración bajo estrés prolongado.  
