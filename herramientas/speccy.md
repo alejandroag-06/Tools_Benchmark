@@ -75,7 +75,7 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 ✨ **Tip**: Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".
 
 <p align="center">
-  <img src="imgs/speccy/img1.png" width="750">
+  <img src="imgs/speccy/img1.png" width="750" style="border-radius: 15px;">
 </p>
 
 ---
