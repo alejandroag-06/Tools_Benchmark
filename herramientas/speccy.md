@@ -72,7 +72,7 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 - **Audio**: Controladores y dispositivos de sonido.  
 - **Unidades ópticas**: Estado de lectores de CD/DVD.  
 
-> [!TIP] 
+> [!NOTE] 
 > Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".
 
 <p align="center">
@@ -111,10 +111,11 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
   <img src="imgs/speccy/img3.png" width="700">
 </p>
 
-### 💡 **¿Para qué sirve esta información?**  
-- **Diagnóstico rápido**: Verifica si el antivirus está activo o si hay problemas de actualizaciones.  
-- **Solución de errores**: El tiempo de actividad ayuda a identificar reinicios inesperados.  
-- **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.   
+> [!NOTE] 
+> ### **¿Para qué sirve esta información?**  
+> - **Diagnóstico rápido**: Verifica si el antivirus está activo o si hay problemas de actualizaciones.  
+> - **Solución de errores**: El tiempo de actividad ayuda a identificar reinicios inesperados.  
+> - **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.   
 
 ---
 
@@ -139,7 +140,7 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
   <img src="imgs/speccy/img4.png" width="750">
 </p> 
 
-> [!TIP] 
+> [!NOTE] 
 > - Usa esta sección para verificar si tu CPU soporta tecnologías necesarias (ej: virtualización para emuladores).  
 > - Núcleos al 100% de frecuencia pueden indicar sobrecarga.  
 
@@ -192,9 +193,9 @@ Speccy muestra todas las ranuras disponibles, aunque no siempre refleje su uso f
 </p>
 
 
-### 💡 **Consejos Prácticos**  
-1. Usa la ranura **PCI-E x4** para tarjetas que requieran mayor ancho de banda  
-2. Consulta el manual de tu placa base para verificar límites de potencia  
+> [!NOTE]  
+> 1. Usa la ranura **PCI-E x4** para tarjetas que requieran mayor ancho de banda.  
+> 2. Consulta el manual de tu placa base para verificar límites de potencia.  
 
 ---
 
@@ -218,7 +219,7 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
   <img src="imgs/speccy/img7.png" width="750">
 </p>
 
-### 💡 **Consejos Prácticos**  
+> [!NOTE] 
 1. Verifica compatibilidad con DirectX/Vulkan para juegos 3D  
 2. Nombres genéricos en monitores son normales en gráficos integrados  
 3. Pantallas externas aparecerán como *\\\\.\DISPLAY2*  
@@ -251,10 +252,10 @@ Esta sección detalla la información técnica del disco:
 - Escritura requiere `ntfs-3g`  
 - Para dual-boot: usar **exFAT**
 
-### 💡 **Consejos Prácticos**  
-1. NTFS: Ideal para archivos grandes (>4 GB)  
-2. FAT32: Recomendado para memorias USB  
-3. Partición de 654 MB: reservada para actualizaciones  
+> [!NOTE]  
+> 1. NTFS: Ideal para archivos grandes (>4 GB)  
+> 2. FAT32: Recomendado para memorias USB  
+> 3. Partición de 654 MB: reservada para actualizaciones  
 
 ---
 
@@ -272,8 +273,8 @@ Esta sección detecta lectores de CD/DVD/Blu-Ray:
   <img src="imgs/speccy/img9.png" width="750">
 </p>
 
-### 💡 **Nota**  
-- Si no aparece nada = No hay unidad física conectada  
+> [!NOTE]   
+> Si no aparece nada = No hay unidad física conectada  
 
 ---
 <a id="-audio"></a>
@@ -297,9 +298,8 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
   <img src="imgs/speccy/img10.png" width="750">
 </p>
 
-💡 **Nota**:
-
-- Si no aparecen dispositivos, verifica conexiones o reinstala controladores.
+> [!NOTE] 
+> Si no aparecen dispositivos, verifica conexiones o reinstala controladores.
 
 ---
 
@@ -322,10 +322,9 @@ Esta sección lista los dispositivos de entrada y salida detectados:
   <img src="imgs/speccy/img11.png" width="750">
 </p>
 
-💡 **Notas rápidas**:
-
-1. **Impresoras virtuales**: *Microsoft Print to PDF* es una función del sistema, no requiere hardware físico.
-2. Los dispositivos *HID* repetidos son controladores estándar de Windows.
+> [!NOTE] 
+> 1. **Impresoras virtuales**: *Microsoft Print to PDF* es una función del sistema, no requiere hardware físico.
+> 2. Los dispositivos *HID* repetidos son controladores estándar de Windows.
 
 ---
 
@@ -362,11 +361,10 @@ Speccy lista procesos que usan la red:
   <img src="imgs/speccy/img13.png" width="750">
 </p>
 
-💡 **Consejos Prácticos**:
-
-1. **Wi-Fi 6**: Aprovecha velocidades altas si tu router lo soporta.
-2. **Conexiones TCP**: Si ves procesos desconocidos, verifica su legitimidad para descartar malware.
-3. **Evita compartir**: Direcciones IP, nombres de PC o rutas de archivos sensibles en foros públicos.
+> [!NOTE] 
+> 1. **Wi-Fi 6**: Aprovecha velocidades altas si tu router lo soporta.
+> 2. **Conexiones TCP**: Si ves procesos desconocidos, verifica su legitimidad para descartar malware.
+> 3. **Evita compartir**: Direcciones IP, nombres de PC o rutas de archivos sensibles en foros públicos.
 
 ---
 
