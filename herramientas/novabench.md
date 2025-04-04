@@ -29,7 +29,7 @@
 4. [📑 Información Detallada del Sistema](#-información-detallada-del-sistema)  
 5. [🔥 Pruebas Avanzadas](#-pruebas-avanzadas)  
 6. [📉 Monitoreo en Tiempo Real](#-monitoreo-en-tiempo-real)  
-
+7. [💎 Plan Premium de Novabench](#-plan-premium-de-novabench)
 ---
 
 <a id="-interfaz-principal"></a>
@@ -172,7 +172,8 @@ Usa **Sensors & Charts** para:
   <em>Datos en tiempo real.</em>
 </p>
 
-## 💎 **Ventajas del Plan Premium de Novabench**  
+<a id="-plan-premium-de-novabench"></a>
+## 💎 **Plan Premium de Novabench**  
 
 El plan **Premium** ofrece herramientas avanzadas para usuarios profesionales que necesitan análisis profundos de los equipos. Aquí las ventajas clave:  
 
