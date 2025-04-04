@@ -114,10 +114,7 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 ### 💡 **¿Para qué sirve esta información?**  
 - **Diagnóstico rápido**: Verifica si el antivirus está activo o si hay problemas de actualizaciones.  
 - **Solución de errores**: El tiempo de actividad ayuda a identificar reinicios inesperados.  
-- **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.  
-
-> [!WARNING]
-> Evita compartir datos sensibles como el *número de serie de Windows*.  
+- **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.   
 
 ---
 
@@ -142,9 +139,9 @@ Speccy muestra la frecuencia de cada núcleo (ej: *~2918 MHz*). Valores estables
   <img src="imgs/speccy/img4.png" width="750">
 </p> 
 
-💡 **Consejo**:  
-- Usa esta sección para verificar si tu CPU soporta tecnologías necesarias (ej: virtualización para emuladores).  
-- Núcleos al 100% de frecuencia pueden indicar sobrecarga.  
+> [!TIP] 
+> - Usa esta sección para verificar si tu CPU soporta tecnologías necesarias (ej: virtualización para emuladores).  
+> - Núcleos al 100% de frecuencia pueden indicar sobrecarga.  
 
 ---
 
