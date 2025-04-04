@@ -305,7 +305,7 @@ Esta sección lista los dispositivos de sonido detectados por tu sistema. Así s
 ---
 
 <a id="-periféricos"></a>
-## 🖱️ 10.- Periféricos
+## ​🖥️​ 10.- Periféricos
 
 Esta sección lista los dispositivos de entrada y salida detectados:
 
