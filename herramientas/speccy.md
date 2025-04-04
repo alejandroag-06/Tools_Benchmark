@@ -247,11 +247,6 @@ Esta sección detalla la información técnica del disco:
   <img src="imgs/speccy/img8.png" width="750">
 </p>
 
-### ⚠️ **NTFS en Linux**  
-- Lectura compatible  
-- Escritura requiere `ntfs-3g`  
-- Para dual-boot: usar **exFAT**
-
 > [!NOTE]  
 > 1. NTFS: Ideal para archivos grandes (>4 GB)  
 > 2. FAT32: Recomendado para memorias USB  
