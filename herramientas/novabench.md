@@ -178,7 +178,7 @@ Usa **Sensors & Charts** para:
 
 El plan **Premium** ofrece herramientas avanzadas para usuarios profesionales que necesitan análisis profundos de los equipos. Aquí las ventajas clave:  
 
-### 💵 **Funciones Exclusivas del Premium**  
+### 🪄 **Funciones Exclusivas del Premium**  
 1. **Terminal de Comandos (CLI)**:  
    - Ejecuta benchmarks desde la línea de comandos para automatizar pruebas en múltiples equipos o integrar Novabench en flujos de trabajo técnicos.  
    - Ideal para scripts personalizados o uso en servidores remotos.  
@@ -201,15 +201,11 @@ El plan **Premium** ofrece herramientas avanzadas para usuarios profesionales qu
 6. **Licencia Comercial**:  
    - Usa Novabench en entornos empresariales sin restricciones (ej: auditorías de flotas de PCs).  
 
----
-
 ### 💵 **Precios y Planes**  
 - **Plus (Personal)**: $35/año  
   - Incluye: Stress Test, Bottleneck Test, monitoreo de sensores, informes offline.  
 - **Pro (Equipos/Comercial)**: $99/usuario/año  
   - Todo lo de Plus + CLI, versión portable, licencia comercial y dashboards para equipos.  
-
----
 
 ### ✨ **Benecifios Adicionales**  
 - **Comparativas Globales**: Acceso a una base de datos con millones de resultados para benchmarking competitivo.  
