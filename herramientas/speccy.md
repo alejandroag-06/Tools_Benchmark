@@ -72,7 +72,8 @@ Al seleccionar un componente del resumen, aquí se despliegan datos avanzados:
 - **Audio**: Controladores y dispositivos de sonido.  
 - **Unidades ópticas**: Estado de lectores de CD/DVD.  
 
-✨ **Tip**: Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".
+> [!TIP] 
+> Usa el **menú lateral izquierdo** para saltar directamente a categorías como "Red" o "Periféricos".
 
 <p align="center">
   <img src="imgs/speccy/img1.png" width="750">
