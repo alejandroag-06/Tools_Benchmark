@@ -105,10 +105,10 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 - **Idioma y formato**: Español, fecha (*dd/MM/aaaa*), moneda (€).  
 
 <p align="center">
-  <img src="imgs/speccy/img2.png" width="600">
+  <img src="imgs/speccy/img2.png" width="500">
 </p> 
 <p align="center">
-  <img src="imgs/speccy/img3.png" width="700">
+  <img src="imgs/speccy/img3.png" width="650">
 </p>
 
 > [!NOTE] 
