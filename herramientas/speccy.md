@@ -15,7 +15,7 @@
       3. Haz clic en <strong>Obtener</strong>
     </td>
     <td width="45%" style="border: none; padding: 10px">
-      <img src="imgs/speccy/mstore.png" width="750">
+      <img src="imgs/speccy/mstore.png" width="750" style="border-radius: 15px;>
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
       2. Ejecuta el archivo <code>.exe</code>
     </td>
     <td width="45%" style="border: none; padding: 10px">
-      <img src="imgs/speccy/speccy.png" width="750">
+      <img src="imgs/speccy/speccy.png" width="750" style="border-radius: 15px;>
     </td>
   </tr>
 </table>
