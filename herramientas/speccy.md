@@ -239,6 +239,8 @@ Esta sección detalla la información técnica del disco:
 | **C:**    | NTFS                | Sistema operativo Windows |
 | **FAT32** | FAT32               | Partición de recuperación |
 
+---
+
 <p align="center">
   <img src="imgs/speccy/img8.png" width="750">
 </p>
