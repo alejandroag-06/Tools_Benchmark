@@ -171,6 +171,8 @@ Usa **Sensors & Charts** para:
   <img src="imgs/novabench/img-9.png" width="750">
 </p>
 
+---
+
 <a id="-plan-premium-de-novabench"></a>
 ## 💎 **Plan Premium de Novabench**  
 
