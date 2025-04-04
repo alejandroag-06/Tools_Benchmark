@@ -15,7 +15,7 @@
       3. Sigue el asistente de instalación.
     </td>
     <td width="55%" style="border: none; padding: 10px">
-      <img src="imgs/novabench/download-1.png" width="750">
+      <img src="imgs/novabench/download-1.png" width="800">
     </td>
   </tr>
 </table>
