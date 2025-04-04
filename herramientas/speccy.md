@@ -220,9 +220,9 @@ Esta sección muestra información sobre tu pantalla y tarjeta gráfica:
 </p>
 
 > [!NOTE] 
-1. Verifica compatibilidad con DirectX/Vulkan para juegos 3D  
-2. Nombres genéricos en monitores son normales en gráficos integrados  
-3. Pantallas externas aparecerán como *\\\\.\DISPLAY2*  
+> 1. Verifica compatibilidad con DirectX/Vulkan para juegos 3D.  
+> 2. Nombres genéricos en monitores son normales en gráficos integrados.
+> 3. Pantallas externas aparecerán como *\\\\.\DISPLAY2*.  
 
 ---
 
