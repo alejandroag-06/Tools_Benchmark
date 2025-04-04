@@ -275,7 +275,7 @@ Esta sección detecta lectores de CD/DVD/Blu-Ray:
 <a id="-audio"></a>
 ## 🔊 9.- Audio
 
-Esta sección lista los dispositivos de sonido detectados por tu sistema. Así se interpreta:
+Esta sección lista los dispositivos de sonido detectados por tu sistema:
 
 ## 🎧 **Datos Clave**
 
