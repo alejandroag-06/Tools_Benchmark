@@ -112,7 +112,7 @@ Esta sección centraliza información crítica sobre tu sistema y configuracione
 </p>
 
 > [!NOTE] 
-> ### **¿Para qué sirve esta información?**  
+> **¿Para qué sirve esta información?**  
 > - **Diagnóstico rápido**: Verifica si el antivirus está activo o si hay problemas de actualizaciones.  
 > - **Solución de errores**: El tiempo de actividad ayuda a identificar reinicios inesperados.  
 > - **Compatibilidad**: Configuraciones regionales aseguran que programas muestren fechas, horas y monedas correctamente.   
